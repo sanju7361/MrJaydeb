@@ -1,22 +1,22 @@
 {
-  "name": "SHABAN-MD-V5",
-  "description": "Jᴀᴠᴀsᴄʀɪᴘᴛ Wʜᴀᴛsᴀᴘᴘ Bᴏᴛ Mᴀᴅᴇ Bʏ Mʀ Sʜᴀʙᴀɴ",
+  "name": "JAYDEB",
+  "description": "Jᴀᴠᴀsᴄʀɪᴘᴛ Wʜᴀᴛsᴀᴘᴘ Bᴏᴛ Mᴀᴅᴇ Bʏ Mʀ JAYDEB",
   "logo": "https://i.ibb.co/9N1sJ41/Manul-Ofc-X.jpg",
-  "keywords": ["Mʀ✰Sʜᴀʙᴀɴ"],
+  "keywords": ["WELLCOME"],
   "success_url": "/",
 
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "SHABAN-MD~s9x1HRzT#0mkvE58a5FGupEiK1PmbXzELzYoufokei8-Vy24NROM.",
       "required": true,
       "value": ""
     },  
     
     "STICKER_NAME": {
-      "description": "type your sticker pack name.",
+      "description": "JAYDEB.",
       "required": false,
-      "value": "SHABAN-MD-V5"
+      "value": "JAYDEB"
     }, 
       
     "PREFIX": {
@@ -28,7 +28,7 @@
     "MODE": {
       "description": "select your bot work type public-private-inbox-group.",
       "required": false,
-      "value": "public"
+      "value": "private"
       
     },
     
@@ -66,34 +66,34 @@
 
     "AUTO_STATUS_REPLY": {
       "description": "Make it true for auto reply msg on status seen.",
-      "required": true,
+      "required": false,
       "value": "false"
     }, 
 
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
-      "required": true,
-      "value": "✦sʜᴀʙᴀɴ-sᴏʙx-ᴍᴅ✦"
+      "required": false,
+      "value": "false"
    
      }, 
     
     "OWNER_NAME": {
-      "description": "Type Bot Owner Name.",
+      "description": "JAYDEB",
       "required": false,
-      "value": "Mʀ✰Sʜᴀʙᴀɴ"
+      "value": "JAYDEB"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "923059395959"
+      "value": "917708396859"
 
     }, 
 
     "BOT_NAME": {
-      "description": "Type here the bot name.",
+      "description": "JAYDEB",
       "required": false,
-      "value": "SHABAN-MD-V5"
+      "value": "JAYDEB"
 
       }, 
 
@@ -112,34 +112,34 @@
 
  "AUTO_STATUS_REPLY": {
       "description": "Make it true for auto reply msg on status seen.",
-      "required": true,
+      "required": false,
       "value": "false"
     }, 
 
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
-      "required": true,
-      "value": "✦sʜᴀʙᴀɴ-sᴏʙx-ᴍᴅ✦"
+      "required": false,
+      "value": "Jaydeb"
    
      }, 
     
     "OWNER_NAME": {
-      "description": "Type Bot Owner Name.",
+      "description": "Jaydeb",
       "required": false,
-      "value": "Mʀ✰Sʜᴀʙᴀɴ"
+      "value": "jaydeb"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "923059395959"
+      "value": " 917708696859"
 
     }, 
 
     "BOT_NAME": {
-      "description": "Type here the bot name.",
+      "description": "Jaydeb",
       "required": false,
-      "value": "SHABAN-MD-V5"
+      "value": "jaydeb"
 
       }, 
 
@@ -159,7 +159,7 @@
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ sʜᴀʙᴀɴ*"
+      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ JAYDEB*"
     },
 
       "DELETE_LINKS": {
@@ -196,7 +196,7 @@
     "CUSTOM_REACT_EMOJIS": {
       "description": "put here custom react react emojis.",
       "required": false,
-      "value": "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍"
+      "value": "⚡"
     }, 
     
     "ANTI_DEL_PATH": {
